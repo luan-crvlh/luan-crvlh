@@ -8,5 +8,3 @@
 LuaNova96/LuaNova96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/luand/Downloads/mac-dark-34z2shgpqpu6aelx.jpg" width="554" height="311">
