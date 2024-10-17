@@ -9,4 +9,4 @@ LuaNova96/LuaNova96 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://vivacoldplay.com/wp-content/uploads/2020/11/A-Sky-Full-Of-Stars.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 736px; height: 229px; margin: 0px; width: 229px;" alt="A Sky Full Of Stars" jsname="kn3ccd" data-ilt="1729180974235" aria-hidden="false">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/luand/Downloads/mac-dark-34z2shgpqpu6aelx.jpg" width="554" height="311">
